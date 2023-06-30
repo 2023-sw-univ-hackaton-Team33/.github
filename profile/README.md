@@ -1,4 +1,5 @@
-## Hi there 👋
+# 명당
+## 명함 속 당신은 누구십니까?
 
 <!--
 
@@ -10,5 +11,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-Test readme
-여기에 ppt 사진 올라감
+
+![Uploading Slide 16_9 - 8.png…]()
