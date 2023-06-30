@@ -11,6 +11,9 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+![Slide 16_9 - 8](https://github.com/2023-sw-univ-hackaton-Team33/.github/assets/56333631/3f2f8d9f-34cb-44ca-ac4a-835c2f2aa0fa)
+
+
 <p align="center">
   <img src="https://github.com/2023-sw-univ-hackaton-Team33/.github/assets/56333631/3f2f8d9f-34cb-44ca-ac4a-835c2f2aa0fa">
   <img src="[이미지URL](https://github.com/2023-sw-univ-hackaton-Team33/.github/assets/56333631/f8dac6ee-60ce-4367-b856-1bf79461a241)">
